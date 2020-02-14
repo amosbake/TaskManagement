@@ -1,17 +1,7 @@
 ﻿{
   "name": "io.mopel.taskmanagement",
-  "version": "0.0.2",
   "displayName": "TaskManagement",
-  "description": "协程任务管理器",
-  "unity": "2018.4",
-  "dependencies": {},
-  "keywords": [
-    "Task",
-    "Helper"
-  ],
-  "author": {
-    "name": "Yanhao",
-    "email": "amosbake@outlook.com",
-    "url": "https://www.unity3d.com"
-  }
+  "version": "0.0.3",
+  "unity": "2018.3",
+  "description": "taskmanagement"
 }
