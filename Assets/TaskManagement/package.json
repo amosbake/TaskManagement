@@ -1,7 +1,7 @@
-﻿{
-  "name": "io.mopel.taskmanagement",
-  "displayName": "TaskManagement",
-  "version": "0.0.3",
-  "unity": "2018.3",
-  "description": "taskmanagement"
+{
+    "name": "com.mopel.taskmanagement",
+    "displayName": "TaskManagement",
+    "version": "0.0.4",
+    "unity": "2018.4",
+    "description": "taskmanagement"
 }
